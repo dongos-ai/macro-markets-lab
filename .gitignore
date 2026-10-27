@@ -1,0 +1,17 @@
+# API response cache written by the notebook (re-downloaded on demand)
+macro_lab_cache/
+py-yfinance/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets: keys belong in Colab Secrets or environment variables, never in the repo
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
